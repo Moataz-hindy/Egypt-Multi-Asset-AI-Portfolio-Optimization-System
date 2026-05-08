@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall,f1_score,confusion_matrix
+LSTM_Classifier,SODIC,0.6379647749510763,0.40699905407837744,0.6379647749510763,0.49695702899414784,"[[326, 0], [185, 0]]"

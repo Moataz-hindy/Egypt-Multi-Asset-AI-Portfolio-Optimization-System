@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall,f1_score,confusion_matrix
+LSTM_Classifier,TBills,0.8925476603119584,0.7966413259283511,0.8925476603119584,0.8418718774004735,"[[515, 0], [62, 0]]"

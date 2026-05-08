@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall,f1_score,confusion_matrix
+LSTM_Classifier,PalmHills,0.59765625,0.3571929931640625,0.59765625,0.44714624083129584,"[[306, 0], [206, 0]]"

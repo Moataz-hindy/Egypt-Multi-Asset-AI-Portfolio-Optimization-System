@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall,f1_score,confusion_matrix
+LSTM_Classifier,EGX30,0.6421663442940039,0.4123776137439251,0.6421663442940039,0.5022361043712822,"[[332, 0], [185, 0]]"

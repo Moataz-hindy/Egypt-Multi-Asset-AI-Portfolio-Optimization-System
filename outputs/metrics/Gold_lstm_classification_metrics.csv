@@ -1,0 +1,2 @@
+model,dataset,accuracy,precision,recall,f1_score,confusion_matrix
+LSTM_Classifier,Gold,0.6666666666666666,0.4444444444444444,0.6666666666666666,0.5333333333333334,"[[48, 0], [24, 0]]"
