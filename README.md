@@ -82,12 +82,23 @@ Where $R_f$ is the T-Bill yield and $\sigma_p$ is the portfolio volatility.
 ### Installation
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/egypt-ai-portfolio.git
+   git clone https://github.com/Moataz-hindy/Egypt-Multi-Asset-AI-Portfolio-Optimization-System
    ```
 
 2. **Setup Python Environment:**
    ```bash
    pip install -r requirements.txt
    ```
+
+---
+## 📚 Purpose
+
+This project was developed for **educational purposes** to demonstrate:
+
+---
+
+## 📜 License
+
+Educational use only.
 
 ---
