@@ -72,9 +72,6 @@ Where $R_f$ is the T-Bill yield and $\sigma_p$ is the portfolio volatility.
 ## 💻 Tech Stack
 *   **Analysis:** Python, Pandas, NumPy, Scikit-Learn, XGBoost.
 *   **Visualization:** Matplotlib, Seaborn, Plotly.
-*   **Backend:** FastAPI / Flask (Python).
-*   **Frontend:** React.js, Tailwind CSS, MUI, Recharts.
-
 ---
 
 ## 🚀 Getting Started
@@ -93,7 +90,7 @@ Where $R_f$ is the T-Bill yield and $\sigma_p$ is the portfolio volatility.
 ---
 ## 📚 Purpose
 
-This project was developed for **educational purposes** to demonstrate:
+This project was developed for **educational purposes** 
 
 ---
 
